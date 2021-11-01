@@ -15,3 +15,5 @@ Day 4 covered CSS Foundations plus completed exercise 1 for the topic.
 Day 5 completed exercise two of the CSS Foundations topic, too tired to do any more; had a long day at work! 
 
 Day 6 completed exercise three of the CSS Foundations topic to practice CSS grouping selectors.
+
+Day 7 completed exercise 4 of the CSS Foundations topic to practice CSS chaining selectors. Pretty easy. 
