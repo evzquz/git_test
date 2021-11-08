@@ -20,3 +20,5 @@ Day 7 completed exercise 4 of the CSS Foundations topic to practice CSS chaining
 
 Day 8 completed exercise 5 of the CSS Foundations topic to practice CSS descendant combinator. Last 2 days missed because my car got totaled, had to deal w that. 
 **Went ahead and finished exercise 6, final one, for the CSS Foundations topic! 
+
+Day 9 took notes on the Box Model for the CSS Foundations topic
