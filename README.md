@@ -22,3 +22,5 @@ Day 8 completed exercise 5 of the CSS Foundations topic to practice CSS descenda
 **Went ahead and finished exercise 6, final one, for the CSS Foundations topic! 
 
 Day 9 took notes on the Box Model for the CSS Foundations topic
+
+Day 10 took notes on the CSS Block and Inline for the CSS Foundations topic. Also, completed two exercises for this topic. 
