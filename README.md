@@ -30,3 +30,5 @@ Day 11 took notes on Intro to Flexbox topic.
 Day 12 took notes on Flexbox growing and shrinking properties.
 
 Day 13 took some notes on Flexbox axes (flex-direction property)
+
+Day 14 took notes over flexbox alignment topic. Completed the first 2 exercises in the Flex folder.
